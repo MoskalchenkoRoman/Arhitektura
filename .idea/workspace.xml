@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08204813-8dcb-49ad-b57a-3f416f85cb0f" name="Changes" comment="dz6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz7/дз7.drawio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz7/дз7.png" afterDir="false" />
+    <list default="true" id="08204813-8dcb-49ad-b57a-3f416f85cb0f" name="Changes" comment="dz7">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz8/ДЗ8.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz8/ДЗ8.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz8/дз8.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +60,8 @@
       <recent name="C:\Users\rymos\IdeaProjects\Arhitektura\src\main\java\dz5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rymos\IdeaProjects\Arhitektura\src\main\java\dz8" />
+      <recent name="C:\Users\rymos\IdeaProjects\Arhitektura\src\main\java\dz7" />
       <recent name="C:\Users\rymos\IdeaProjects\Arhitektura\src\main\java\dz6" />
       <recent name="C:\Users\rymos\IdeaProjects\Arhitektura\src\main\java\org\example" />
     </key>
@@ -162,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690285873305</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="dz7">
+      <created>1690544887337</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690544887337</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +194,7 @@
     <MESSAGE value="dz4null" />
     <MESSAGE value="dz5" />
     <MESSAGE value="dz6" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz6" />
+    <MESSAGE value="dz7" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz7" />
   </component>
 </project>
