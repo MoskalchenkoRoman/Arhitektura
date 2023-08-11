@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08204813-8dcb-49ad-b57a-3f416f85cb0f" name="Changes" comment="dz8_1" />
+    <list default="true" id="08204813-8dcb-49ad-b57a-3f416f85cb0f" name="Changes" comment="dz9" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +55,7 @@
       <recent name="C:\Users\rymos\IdeaProjects\Arhitektura\src\main\java\dz5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rymos\IdeaProjects\Arhitektura\src\main\java\dz9" />
       <recent name="C:\Users\rymos\IdeaProjects\Arhitektura\src\main\java\dz8" />
       <recent name="C:\Users\rymos\IdeaProjects\Arhitektura\src\main\java\dz7" />
       <recent name="C:\Users\rymos\IdeaProjects\Arhitektura\src\main\java\dz6" />
@@ -181,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691156919631</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="dz9">
+      <created>1691499153375</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1691499153375</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +214,7 @@
     <MESSAGE value="dz7" />
     <MESSAGE value="dz8" />
     <MESSAGE value="dz8_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz8_1" />
+    <MESSAGE value="dz9" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz9" />
   </component>
 </project>
