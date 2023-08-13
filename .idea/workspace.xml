@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08204813-8dcb-49ad-b57a-3f416f85cb0f" name="Changes" comment="dz9" />
+    <list default="true" id="08204813-8dcb-49ad-b57a-3f416f85cb0f" name="Changes" comment="dz10">
+      <change afterPath="$PROJECT_DIR$/src/test/java/dz3/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +20,7 @@
         <option value="package-info" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -40,26 +45,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rymos/IdeaProjects/Arhitektura/src/main/java/dz5&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/rymos/IdeaProjects/Arhitektura/src/main/java/dz5",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\rymos\IdeaProjects\Arhitektura\src\main\java\dz5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rymos\IdeaProjects\Arhitektura\src\main\java\dz10" />
       <recent name="C:\Users\rymos\IdeaProjects\Arhitektura\src\main\java\dz9" />
       <recent name="C:\Users\rymos\IdeaProjects\Arhitektura\src\main\java\dz8" />
       <recent name="C:\Users\rymos\IdeaProjects\Arhitektura\src\main\java\dz7" />
       <recent name="C:\Users\rymos\IdeaProjects\Arhitektura\src\main\java\dz6" />
-      <recent name="C:\Users\rymos\IdeaProjects\Arhitektura\src\main\java\org\example" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="dz3" />
     </key>
   </component>
   <component name="RunManager" selected="Application.dz3.Main">
@@ -189,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691499153375</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="dz10">
+      <created>1691751319461</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1691751319461</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,6 +235,7 @@
     <MESSAGE value="dz8" />
     <MESSAGE value="dz8_1" />
     <MESSAGE value="dz9" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz9" />
+    <MESSAGE value="dz10" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz10" />
   </component>
 </project>
