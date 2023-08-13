@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite>
+	<id>S1</id>
+	<name>Master</name>
+	<description></description>
+	<sections>
+		<section>
+		<name>Архитектура ДЗ</name>
+		<description></description>
+						<cases>
+												<case>
+				<id>C1</id>
+				<title>авторизация</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>High</priority>
+																				<estimate></estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<preconds>приложение установлено на смартфон и запущенно. на экране приглашения для авторизации. 2 раздельных поля &quot;ИМЯ&quot; и &quot;ПАРОЛЬ&quot;</preconds>
+										<steps>введите имя и пароль в соответствующие поля. ИМЯ-админ, ПАРОЛЬ-админ</steps>
+										<expected>при вводе имя и пароля экран переходит на главную страницу и в разделе профиль отображаются данные пользователя</expected>
+									</custom>
+							</case>
+															<case>
+				<id>C2</id>
+				<title>выбор пылесоса</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>High</priority>
+																				<estimate></estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<preconds>приложение установлено,запущено и пользователь авторизован</preconds>
+										<steps>в верхней части экрана с помощью стрелок выбрать пылесос из списка</steps>
+										<expected>выбранный пылесос вместо черно-белого становится цветным и под ним отображается его состояние аналогичное тому что на табло самого пылесоса</expected>
+									</custom>
+							</case>
+															<case>
+				<id>C3</id>
+				<title>настройки</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																				<estimate></estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<preconds>приложение запущенно, пользователь авторизован, пылесос выбран</preconds>
+										<steps>зайти в каждый раздел настроек попытаться их изменить и вернуться обратно </steps>
+										<expected>кнопки в разделе настройки активны, изменения можно вносить и сохранять</expected>
+									</custom>
+							</case>
+															<case>
+				<id>C4</id>
+				<title>обновление</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																				<estimate></estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<preconds>приложение запущено, пользователь авторизован,пылесос выбран, кнопки в меню настройки активны</preconds>
+										<steps>нажать кнопку обновить </steps>
+										<expected>при нажатии кнопки обновить откроется экран проверки обновления на котором будет отображаться установленная версия ПО и активная кнопка обновить ПО, если версия не последняя.</expected>
+									</custom>
+							</case>
+								</cases>
+							</section>
+	</sections>
+</suite>
